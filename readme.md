@@ -1,2 +1,2 @@
-fichero realme-md
+fichero readme-md
 fichero de lectura
